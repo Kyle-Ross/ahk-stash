@@ -1,0 +1,44 @@
+; Text for help message
+
+HelpText =
+(
+===================
+======HOTKEY=======
+======DETAILS======
+===================
+
+||--AUTOHOTKEY--||
+
+Details about your hotkeys here, in a multi-line string
+
+)
+
+; -------------------------------
+
+; Hotstring variables
+lorem := "Lorem ipsum dolor sit amet"
+morbius := "morbius is the best film of all time"
+
+; -------------------------------
+; Exe locations
+; -------------------------------
+
+; Excel
+excel_path := "C:\Program Files\Microsoft Office\root\Office16\"
+excel_file := "EXCEL.exe"	
+
+; Word
+word_path := "C:\Program Files\Microsoft Office\root\Office16\"
+word_file := "WINWORD.exe"	
+
+; -------------------------------
+; Folder locations
+; -------------------------------
+
+documents_folder := "F:\Documents\"
+
+; -------------------------------
+; Bat file locations
+; -------------------------------
+
+reseter_bat := "C:\Users\JaneDoe\Projects\Resetter\Run Resetter.bat"
