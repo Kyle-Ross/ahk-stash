@@ -26,11 +26,10 @@ double_time := 0.1
 
 ;||||----Hotstrings----||||
 
-::geml::%gemlhotstr%
-::heml::%hemlhotstr%
-::peml::%pemlhotstr%
-::u801::%u801hotstr%
-::phnm::%phnmhotstr%
+; ::example::replaces example with this text
+
+; Hotstrings are not supported with variables, so this has been moved to 
+; a local only AHK file to avoid sharing private information on github
 
 ;__________________________________________
 
