@@ -117,9 +117,9 @@ return
 
 ;||--OUTLOOK--||
 
-^+l:: 
-KeyWait, l
-KeyWait, l, D T %double_time%
+^+o:: 
+KeyWait, o
+KeyWait, o, D T %double_time%
 customrun(outlook_path, outlook_file, 1)
 return
 
